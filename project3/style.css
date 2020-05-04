@@ -1,0 +1,109 @@
+body{
+   margin: 0; 
+} 
+
+div{
+    border-radius: 20px;
+}
+    
+.box {
+    margin: 20px;
+    background-color: blueviolet;
+    box-sizing: border-box;
+    color: white;
+    padding: 10px;
+    border-radius: 40px;
+    
+}
+.main-section{
+    margin: 10px;
+}
+
+.main-heading{
+    background-color: skyblue;
+    padding: 1%;
+    width: 98%;
+    color: white;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.menubar{
+    background-color: skyblue;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 24%;
+    padding-bottom: 300px;
+    color: white;
+    vertical-align: top;
+    text-align: center;
+    
+}
+
+.main-content{
+     background-color: skyblue;
+     box-sizing: border-box;
+     display: inline-block;
+     width: 50%;
+     color: white;
+     text-align: center;
+     padding-bottom: 60px;
+     margin:0 5px;
+   
+}
+
+.small-box{
+    text-align: center;
+    box-sizing: border-box;
+    padding: 0 5%;
+
+}
+
+.first{
+    background-color: yellow;
+    box-sizing: border-box;
+    padding: 1%;
+    border-radius: 5px;
+}
+
+.second{
+    background-color: yellow;
+    box-sizing: border-box;
+    margin: 20px 0px;
+    padding: 10%;
+    border-radius: 5px;
+    
+}
+
+.third{
+      background-color: yellow;
+      box-sizing: border-box;
+      padding: 1%;
+      border-radius: 5px;
+
+}
+
+
+ .sidebar{
+     background-color: skyblue;
+     box-sizing: border-box;
+     display: inline-block;
+     width: 24%;
+     padding-bottom: 300px;
+     color: white;
+     vertical-align: top;
+     text-align: center;
+}
+
+.main-footer{
+        background-color: skyblue;
+        padding: 1%;
+        border-radius: 20px;
+        width: 98%;
+        color: white;
+        box-sizing: border-box;
+        text-align: center;
+        margin-top: 10px;
+}
+

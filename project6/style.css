@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+}
+
+.navigation{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+.navigation ul{
+    margin: 0;
+}
+
+.navigation li{
+    display: inline-block;
+    margin-right: 50px;
+}
+.side{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin-left: 10%;
+}
+
+.full{
+    margin:  1% 5%;
+    
+}
+
+.main-content{
+    background-color: whitesmoke;
+    padding: 50px;
+    
+}
+
+.main-content button{
+    background-color: blue;
+    padding: 5px;
+    border:none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+
+.main-related button{
+    cursor: pointer;
+    
+}
+
+.related1{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 32%;
+}
+
+.related2{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 32%;
+    margin: 0% 1.6%;
+
+}
+
+.related3{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 32%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

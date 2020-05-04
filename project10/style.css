@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    background-color: darkgray;
+}
+
+.full-box{
+    box-sizing: border-box;
+    margin: 0 30%;
+}
+
+div{
+    border-radius: 5px;
+}
+p{
+    padding: 5px;
+}
+.outer-box1{
+    background-color: white;
+    margin: 10px;
+    padding-bottom: 3px;
+    
+}
+.inner-box1{
+    background-color: darkgrey;
+    margin: 10px;
+
+}
+
+.outer-box2{
+     background-color: white;
+    padding-bottom:40px;
+    margin: 10px;
+    
+}
+
+.outer-box3{
+    background-color: white;
+    margin: 10px; 
+    padding-bottom: 3px;
+}
+
+.inner-box3{
+    background-color: darkgrey;
+    margin: 10px;
+    padding-bottom: 80px;
+}
+
+.outer-box4{
+     background-color: white;
+    padding-bottom: 40px;
+    margin: 10px;
+    
+}
+
+.outer-box5{
+     background-color: white;
+    padding-bottom: 20px;
+    margin: 10px;
+    
+}
+.outer-box6{
+    background-color: white;
+    padding-bottom: 1px;
+    margin: 10px;
+}
+

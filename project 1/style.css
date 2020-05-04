@@ -1,0 +1,89 @@
+.full-box{
+    margin: 2% 20%;
+    color: snow;
+    text-align: center;
+}
+
+.wrapper{
+    margin: 5px 0px;
+}
+
+.main-heading{
+    background-color: aqua;
+    padding: 2%;
+}
+.menubar{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 25.49%;
+    vertical-align: top;
+}
+
+.menu1{
+    background-color: violet;
+    padding: 66px 0px;
+}
+
+.menu2{
+    background-color: greenyellow;
+    padding: 116px 0px;
+    margin-top: 5px;
+}
+
+.main-contant{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 74%;
+    
+}
+
+.main1{
+    background-color: yellow;
+    padding: 116px 0px;
+
+}
+
+
+.main2{
+    background-color: gray;
+    padding: 41px 0px;
+    margin-top: 5px;
+
+}
+
+
+.related{
+    box-sizing: border-box;
+    margin-top: 5px;
+
+}
+
+.first-related{
+    background-color: green;
+    width: 79.49%;
+    padding: 41px 0px;
+    display: inline-block;
+    box-sizing: border-box;
+    
+}
+
+.second-related{
+    background-color: pink;
+    width: 20%;
+    padding: 41px 0px;
+    display: inline-block;
+    box-sizing: border-box;
+    
+}
+
+footer{
+    background-color: orange;
+    padding: 2%;
+}
+
+
+
+
+
+
+

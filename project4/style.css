@@ -1,0 +1,128 @@
+body{
+    margin: 0px;
+}
+
+.navigation{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    
+}
+.navigation li{
+    display: inline-block;
+    margin-right: 50px;  
+}
+
+.navigation ul{
+    margin: 0;
+}
+
+
+
+.full-box{
+    padding: 10px;
+
+}
+
+.menubar{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 15%;
+    vertical-align: top;
+
+}
+
+.main{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 84.7%;
+    padding-left: 10px;
+
+}
+
+.menu{
+    background-color: gainsboro;
+    box-sizing: border-box;
+    color: blue;
+    padding-top: 2px;
+}
+
+.menu li{
+    list-style-type: none;
+    padding: 5px;
+}
+
+
+.menu-active{
+    background-color: blue;
+    color: white;
+}
+
+.menu-color{
+    color: black;
+}
+
+.main-content{
+    background-color: gainsboro;
+    box-sizing: border-box;
+    padding: 50px;
+
+}
+
+.main-content button{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    border:none;
+    cursor: pointer;
+}
+
+.main-related{
+    box-sizing: border-box; 
+    
+}
+
+.main-related button{
+    cursor: pointer;
+    
+}
+
+.main1{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 33%;
+}
+
+.main2{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 33%;
+}
+
+
+.main3{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 33%;
+}
+
+.main4{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 33%;
+}
+
+.main5{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 33%;
+}
+
+
+.main6{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 33%;
+}
+

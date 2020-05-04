@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    background-color: gray;
+}
+
+.navigation ul button{
+    width: 20%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.navigation{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.navigation li{
+    display: inline-block;
+    padding: 5px;
+    padding-left: 50px;
+
+    
+}
+
+.navigation ul{
+    margin: 0;
+    padding: 0;
+     display: inline-block;
+    box-sizing: border-box;
+    width: 30%;
+
+}
+
+.full-box{
+    box-sizing: border-box;
+    margin: 0 10%;
+
+    
+}
+
+.first-box {
+    padding: 20px;
+    background-image: url(jpg.css.jpg);
+    margin: 10px 0;
+   
+}
+.first-box h1{
+    text-align: right;
+    text-transform: uppercase;
+}
+.main-box{
+    margin: 30px 0;
+    padding: 10px;
+    
+}
+img{
+    width: 200px;
+}
+
+.main1{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 24%;
+    background-color: snow;
+    padding: 10px;
+
+    
+}
+
+.main2{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 24%;
+    background-color: snow;
+    margin-left: 10px;
+    padding: 10px;
+    
+}
+
+.main3{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 24%;
+    background-color: snow;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+
+.main4{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 24%;
+    background-color: snow;
+    margin-left: 10px;
+    padding: 10px;
+    
+
+}
+
+button{
+    background-color: blue;
+    border:none;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+
+

@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    font-family: 'montserrat', sans-serif;
+}
+
+.main-heading {
+    background-color: tomato;
+    color: white;
+    padding: 2px;
+    font-size: 15px;
+    padding-left: 25px;
+}
+
+.navigation {
+    background-color: rgb(120, 57, 184);
+    color: white;
+    margin: 0;
+    
+}
+.navigation ul{
+    margin: 0;
+    margin-left: -80px;
+}
+
+.navigation li {
+    display: inline-block;
+    margin-left: 50px;
+    text-transform: capitalize;
+    padding: 5px;
+
+
+}
+.full-box{
+    padding: 10px;
+}
+
+.main{
+    width: 74.65%;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.sidebar{
+    width: 25%;
+    box-sizing: border-box;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.side{
+    border: 2px solid black;
+    padding: 0px 10px;
+}
+
+footer{
+    background-color: grey;
+    padding: 5px;
+}

@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+    background-color: aliceblue;
+}
+
+.full-box{
+    margin: 0 10%;
+
+}
+
+.main-heading{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.heading-related{
+    background-color: skyblue;
+    padding: 5px;
+
+}
+.related1{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+    padding-top: 30px;
+    padding-left: 30px;
+    
+}
+
+.related2{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 59%;
+}
+.active{
+    background-color: black;
+}
+
+.navigation{
+    background-color: deepskyblue;
+    border-radius: 5px;
+    color: white;
+}
+
+.navigation li{
+    display: inline-block;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.navigation ul{ 
+    margin: 0;
+}
+
+.first-content{
+    padding: 5px;
+    background-color: azure;
+    
+}
+
+.first1{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 33%;
+}
+
+
+.first2{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 33%;
+}
+
+.first3{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 33%;
+}
+
+.main-content{
+    padding: 5px;
+    background-color: azure;
+
+}
+
+.main1{
+     box-sizing: border-box;
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+}
+
+.main2{
+     box-sizing: border-box;
+    display: inline-block;
+    width: 50%;
+}
+
+footer{
+    background-color: blue;
+    padding: 5px;
+    color: white;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+

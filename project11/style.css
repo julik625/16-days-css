@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+
+.navigation{
+    background-color: blue;
+    margin: 0;
+    padding: 5px;
+
+}
+.navigation ul{
+    margin: 0;
+}
+
+.navigation li{
+    margin-left: 5px;
+    background-color: skyblue;
+    border-radius: 5px;
+    display: inline-block;
+    color: white;
+    padding: 5px;
+    
+}
+
+.full-box{
+    background-color: snow;
+    padding: 10px 50px;
+    margin: 30px;
+    border-radius: 20px;
+}
+
+
+
+
+
+

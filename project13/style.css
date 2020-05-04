@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+    background-color: rgb(221, 221, 221);
+}
+
+.full-box{
+    margin: 0 20%;
+    
+}
+
+.navigation {
+    background-color: black;
+    color: white;
+}
+.navigation ul{
+    padding: 0;
+}
+.navigation li{
+    display: inline-block;
+    padding-left: 10px;
+    padding: 10px;
+}
+
+.active{
+    background-color: red;
+    
+}
+
+.full-box h3{
+    color: red;
+}
+.full-box a{
+    color: red;
+}
+
+.first-content{
+    background-color: snow;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.first1{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 50%
+    
+}
+
+.first2{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 49%;
+    
+}
+
+.first2-related{
+    border: 1px solid gray;
+    margin: 5% 10%;
+    padding: 10px;
+    display: inline-block    
+    
+}
+.first2-related h4{
+    color: orange;
+}
+
+
+
+.main-content{
+    background-color: snow;
+    padding: 5px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.main1{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 20%;
+
+    
+}
+
+.main2{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 79%;
+    
+}
+
+.related1{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 24%;
+}
+
+.related2{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 24%;
+}
+
+.related3{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 24%;
+}
+
+
+.related4{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 24%;
+}
+
+
+
+.last-content{
+    background-color: snow;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+
+.last1{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 30%;
+}
+
+.last2{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 69%;
+}
+
+
+.end{
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,72 @@
+body{
+    margin: 0;    
+}
+.main-heading {
+    background-color: #989898;
+    padding: 1%;
+    color: white;
+    
+}
+.main-heading h1{
+    margin: 0;
+    text-transform: capitalize;
+}
+
+.navigation {
+    background-color: black;
+    padding: 5px;
+    color: white;
+}
+
+.navigation span{
+    margin-left: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.full-box{
+    padding: 10px;
+}
+
+.main {
+      width: 70%;
+      display: inline-block;
+      box-sizing: border-box;
+  }   
+  .sidebar {
+      width: 29.5%;
+      display: inline-block;
+      box-sizing: border-box;
+      vertical-align: top;
+      padding-left: 10px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
