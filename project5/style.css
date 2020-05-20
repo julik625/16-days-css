@@ -1,7 +1,12 @@
 body{
     margin: 0;
+    font-family: sans-serif;
 }
 
+.navigation ul{
+    padding: 0;
+    
+}
 
 .navigation{
     background-color: black;
@@ -12,15 +17,19 @@ body{
 
 .navigation li{
     display: inline-block;
-    margin-right: 50px;
+    margin-right: 20px;
     padding: 5px;
-    margin-left: -40px;
+
+}
+
+.full-box{
+    margin: 2px;
 }
 
 .main{
     box-sizing: border-box;
     display: inline-block;
-    width: 74.7%;
+    width: 74.67%;
     vertical-align: top;
 }
 
@@ -34,7 +43,7 @@ body{
 }
 
 .main-content{
-    background-color: whitesmoke;
+    background-color: #eeeeee;
     padding: 100px;
 }
 
@@ -49,7 +58,7 @@ body{
 }
 
 .menu{
-    background-color: whitesmoke;
+    background-color: #eeeeee;
     padding: 80px 20px;
     margin-left: 10px;
     
@@ -59,7 +68,8 @@ body{
     background-color: blue;
     color: white;
     border:none;
-    border-radius: 5px;
+    border-radius: 4px;
+    padding: 5px 10px;;
 }
 
 .related1{
@@ -79,20 +89,10 @@ body{
     box-sizing: border-box;
     display: inline-block;
     width: 33%;
-    
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+.side-right{
+    color: skyblue;
+    padding-left: 20px;
+}
 

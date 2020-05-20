@@ -1,11 +1,10 @@
 body{
     margin: 0;
-    background-color: rgb(221, 221, 221);
+    background-color: #f6f5f1;
 }
 
 .full-box{
-    margin: 0 20%;
-    
+    margin: 0 20%;   
 }
 
 .navigation {
@@ -34,7 +33,7 @@ body{
 }
 
 .first-content{
-    background-color: snow;
+    background-color: #ffffff;
     padding: 10px;
     border-radius: 5px;
 
@@ -53,12 +52,15 @@ body{
     width: 49%;
     
 }
+.first2 img{
+    padding-left: 50px; 
+}
 
 .first2-related{
-    border: 1px solid gray;
     margin: 5% 10%;
     padding: 10px;
-    display: inline-block    
+    display: inline-block; 
+        
     
 }
 .first2-related h4{
@@ -68,7 +70,7 @@ body{
 
 
 .main-content{
-    background-color: snow;
+    background-color: #ffffff;
     padding: 5px;
     margin: 20px 0;
     border-radius: 5px;
@@ -117,7 +119,7 @@ body{
 
 
 .last-content{
-    background-color: snow;
+    background-color: #ffffff;
     padding: 5px;
     border-radius: 5px;
     
@@ -126,15 +128,18 @@ body{
 .last1{
     box-sizing: border-box;
     display: inline-block;
-    width: 30%;
+    width: 20%;
 }
 
 .last2{
     box-sizing: border-box;
     display: inline-block;
-    width: 69%;
+    width: 79%;
 }
-
+.last2 img{
+    float: left;
+    padding: 10px;
+}
 
 .end{
     text-align: right;

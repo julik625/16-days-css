@@ -1,10 +1,11 @@
 body{
     margin: 0;
     background-color: black;
+    font-family: sans-serif;
 }
 
 .navigation{
-    background-color: blue;
+    background-color: #144c85;
     margin: 0;
     padding: 5px;
 
@@ -15,22 +16,32 @@ body{
 
 .navigation li{
     margin-left: 5px;
-    background-color: skyblue;
-    border-radius: 5px;
+    background-color: #5386b2;
+    border-radius: 10px;
     display: inline-block;
     color: white;
-    padding: 5px;
+    padding: 1px 10px;
     
 }
 
 .full-box{
     background-color: snow;
-    padding: 10px 50px;
     margin: 30px;
-    border-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
 }
 
+h1{
+    padding-left: 20px;
+    padding-top: 20px;
 
+}
+
+.wrapper{
+    padding: 0 20px;
+    padding-bottom: 10px;
+
+}
 
 
 

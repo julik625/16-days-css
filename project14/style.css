@@ -3,21 +3,29 @@ body{
 }
 
 .main-heading{
-    background-color: aquamarine;
+    background-color: #17a086;
     color: white;
-    padding: 10px;
+    padding: 20px 0;
     
 }
 
+span{
+    color: #199f84;
+}
+
 .navigation{
-    background-color:seagreen;
+    background-color: #21ba9a;
     display: inline-block;
     
+}
+.navigation ul{
+    padding: 0;
 }
 
 .navigation li{
     display: inline-block;
-    padding: 10px;
+    padding: 8px 30px;
+    
 }
 
 .navigation ul{
@@ -29,10 +37,10 @@ body{
 }
 
 .first-content{
-    background-color: rgb(239, 239, 239);
+    background-color: #f3f3f3;
     text-align: center;
     margin: 0;
-    padding: 10px;
+    padding: 10px 0;
     
     
 }
@@ -67,7 +75,7 @@ body{
 }
 
 button{
-    background-color: green;
+    background-color: #199f84;
     padding: 10px 20px;
     border: none;
     color: white;
@@ -78,21 +86,21 @@ button{
      box-sizing: border-box;
      display: inline-block;
      width: 23%;
-    margin-left: 15px;
+    
 }
 
 .post2{
      box-sizing: border-box;
      display: inline-block;
      width: 23%;
-    margin-left: 15px;
+    margin-left: 27.5px;
 }
 
 .post3{
      box-sizing: border-box;
      display: inline-block;
      width: 23%;
-    margin-left: 15px;
+    margin-left: 27.5px;
 }
 
 
@@ -100,6 +108,9 @@ button{
      box-sizing: border-box;
      display: inline-block;
      width: 23%;
-    margin-left: 15px;
+    margin-left: 27.5px;
 }
 
+.other-post img{
+    width: 320px;
+}

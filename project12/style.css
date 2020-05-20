@@ -1,19 +1,32 @@
 body{
     margin: 0;
-    background-color: blue;
+    background-color:#232045;
+    font-family: sans-serif;
 }
 
 .main-heading{
-    background-color: skyblue;
-    padding: 5px;
-    
+    background-color: #454367;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    padding: 1px;
+    color: white;       
+}
+
+.logo{
+    width: 50px;
 }
 
 .full-box{
     background-color: white;
     margin: 20px 80px;
     border-radius: 20px;
-    padding: 20px;
+}
+
+.wrapper{
+    padding: 10px 20px;
 }
 
 .menubar{
@@ -21,20 +34,29 @@ body{
     display: inline-block;
     width: 20%;
     vertical-align: top;
+    text-align: justify;
 }
 
+.menubar p{
+    margin: 0;
+}
 .main{
      box-sizing: border-box;
      display: inline-block;
-     width: 78%;
+     width: 78.5%;
     margin-left: 1%; 
+    padding: 10px;
 }
 
 
 footer{
-    background-color: tan;
+    background-color: #664544;
     padding: 5px;
     box-sizing: border-box;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: center;
+    color: white;
     
 }
 

@@ -1,25 +1,36 @@
 body{
     margin: 0;
+    font-family: sans-serif;
 }
 
 .navigation{
     background-color: black;
     color: white;
-    padding: 5px;
 }
 .navigation ul{
-    margin: 0;
+     margin: 0; 
 }
 
 .navigation li{
     display: inline-block;
-    margin-right: 50px;
+    padding: 2px;
+
 }
-.side{
-    background-color: white;
-    color: black;
-    padding: 5px;
-    margin-left: 10%;
+
+.side1{
+    display: inline-block;
+    width: 59%;
+    box-sizing: border-box;
+}
+.side1 li{
+    padding-left: 30px;
+}
+
+.side2 {
+    display: inline-block;
+    width: 40%;
+    box-sizing: border-box;
+    border: none;    
 }
 
 .full{
